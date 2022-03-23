@@ -12,6 +12,7 @@ Download and install [node](https://nodejs.org) to be able to run this
 
 ```cmd
 > npm install
+added 170 packages, and audited 171 packages in 13s
 > node run-me-first.js
 Starting application
 Successfully registered application commands.
