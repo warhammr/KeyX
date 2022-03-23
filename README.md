@@ -11,6 +11,7 @@ I will NOT provide setup support unless your not a leecher.
 Download and install [node](https://nodejs.org) to be able to run this
 
 ```cmd
+> npm install
 > node run-me-first.js
 Starting application
 Successfully registered application commands.
